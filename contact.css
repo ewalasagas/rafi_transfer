@@ -85,6 +85,7 @@
 
 .message-button {
     text-align: center;
+    width: 100%;
     font-family: DogicaBold;
     font-size: 25px;
     color: yellow;
@@ -100,7 +101,7 @@
 
 /** WHEN YOU HOVER ON MESSAGE BUTTON **/
 .message-button:hover {
-    margin-top: 1.5vw;
+    margin: 3vw 2vw 1vw 2vw;
     box-shadow: none;
 }
 
